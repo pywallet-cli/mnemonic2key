@@ -1,4 +1,4 @@
-# privatekey-generator
+# privatekey-linux-cli
 Generate keys/addresses from a mnemonic seed phrase (12-24 words)
 
 usage: privatekey-linux-cli [-h] -m MNEMONIC

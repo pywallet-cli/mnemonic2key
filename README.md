@@ -1,11 +1,11 @@
 # Mnemonic2key
-    Generate wallet private key using a mnemonic seed phrase (12-24 words)
+Generate wallet private key using a mnemonic seed phrase (12-24 words)
 
 # Linux Usage
     sudo ./mnemonic2key-cli
 
 # Windows Usage
-  Execute mnemonic2key.exe in CLI (cmd.exe)
+    Execute mnemonic2key.exe in CLI (cmd.exe)
 
 # Arguments
                         

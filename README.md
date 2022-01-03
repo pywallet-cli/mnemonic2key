@@ -1,5 +1,5 @@
 # mnemonic2key
-Generate wallet private key using a mnemonic seed phrase (12-24 words)
+Generate address and private key using a mnemonic seed phrase (12-24 words)
 
 # Linux Usage
     sudo ./mnemonic2key-cli

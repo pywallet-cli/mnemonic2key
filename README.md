@@ -1,4 +1,4 @@
-# mnemonic2key
+# mnemonic2key (CLI)
 Generate address and private key using a mnemonic seed phrase (12-24 words)
 
 # Linux Usage

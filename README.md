@@ -1,4 +1,4 @@
-# Mnemonic2key
+# mnemonic2key
 Generate wallet private key using a mnemonic seed phrase (12-24 words)
 
 # Linux Usage
